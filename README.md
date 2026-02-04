@@ -1,2 +1,2 @@
 # Terrestrial-Border-Zones-source
-All data are publicly available and can be obtained from the literature.
+本研究的主要应用方法都为开源软件，可以分别在其官网下载得到；斑块密度和破碎度代码已经上传到项目。论文中的所有数据为开源数据，可在论文的中的链接中下载得到。
